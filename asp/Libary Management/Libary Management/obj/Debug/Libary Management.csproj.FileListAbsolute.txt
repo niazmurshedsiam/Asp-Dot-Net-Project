@@ -1,0 +1,142 @@
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\Libary Management.dll.config
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\Libary Management.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\Libary Management.pdb
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\csc.exe
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\csc.exe.config
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\csc.rsp
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\csi.exe
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\csi.exe.config
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\csi.rsp
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\System.Console.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\System.Security.Claims.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\vbc.exe
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\vbc.rsp
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\System.Web.Optimization.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\WebGrease.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\System.Web.Optimization.xml
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\obj\Debug\Libary Management.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\obj\Debug\Libary Management.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\obj\Debug\Libary Management.dll
+C:\Users\ASUS\source\repos\Libary Management\Libary Management\obj\Debug\Libary Management.pdb
+F:\asp\Libary Management\Libary Management\bin\Libary Management.dll.config
+F:\asp\Libary Management\Libary Management\bin\Libary Management.dll
+F:\asp\Libary Management\Libary Management\bin\Libary Management.pdb
+F:\asp\Libary Management\Libary Management\bin\roslyn\csc.exe
+F:\asp\Libary Management\Libary Management\bin\roslyn\csc.exe.config
+F:\asp\Libary Management\Libary Management\bin\roslyn\csc.rsp
+F:\asp\Libary Management\Libary Management\bin\roslyn\csi.exe
+F:\asp\Libary Management\Libary Management\bin\roslyn\csi.exe.config
+F:\asp\Libary Management\Libary Management\bin\roslyn\csi.rsp
+F:\asp\Libary Management\Libary Management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\asp\Libary Management\Libary Management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\Microsoft.Managed.Core.targets
+F:\asp\Libary Management\Libary Management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\asp\Libary Management\Libary Management\bin\roslyn\System.AppContext.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\System.Collections.Immutable.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\System.Console.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\System.IO.Compression.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\System.IO.FileSystem.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\System.IO.Pipes.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\System.Reflection.Metadata.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\System.Security.AccessControl.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\System.Security.Claims.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\System.Security.Principal.Windows.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\System.ValueTuple.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\System.Xml.XmlDocument.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\System.Xml.XPath.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\asp\Libary Management\Libary Management\bin\roslyn\vbc.exe
+F:\asp\Libary Management\Libary Management\bin\roslyn\vbc.exe.config
+F:\asp\Libary Management\Libary Management\bin\roslyn\vbc.rsp
+F:\asp\Libary Management\Libary Management\bin\roslyn\VBCSCompiler.exe
+F:\asp\Libary Management\Libary Management\bin\roslyn\VBCSCompiler.exe.config
+F:\asp\Libary Management\Libary Management\bin\Antlr3.Runtime.dll
+F:\asp\Libary Management\Libary Management\bin\AspNet.ScriptManager.bootstrap.dll
+F:\asp\Libary Management\Libary Management\bin\AspNet.ScriptManager.jQuery.dll
+F:\asp\Libary Management\Libary Management\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\asp\Libary Management\Libary Management\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\asp\Libary Management\Libary Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\asp\Libary Management\Libary Management\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\asp\Libary Management\Libary Management\bin\Microsoft.ScriptManager.WebForms.dll
+F:\asp\Libary Management\Libary Management\bin\Microsoft.Web.Infrastructure.dll
+F:\asp\Libary Management\Libary Management\bin\Newtonsoft.Json.dll
+F:\asp\Libary Management\Libary Management\bin\System.Web.Optimization.dll
+F:\asp\Libary Management\Libary Management\bin\WebGrease.dll
+F:\asp\Libary Management\Libary Management\bin\System.Web.Optimization.xml
+F:\asp\Libary Management\Libary Management\bin\Newtonsoft.Json.xml
+F:\asp\Libary Management\Libary Management\bin\Antlr3.Runtime.pdb
+F:\asp\Libary Management\Libary Management\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\asp\Libary Management\Libary Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\asp\Libary Management\Libary Management\obj\Debug\Libary Management.csprojResolveAssemblyReference.cache
+F:\asp\Libary Management\Libary Management\obj\Debug\Libary Management.dll
+F:\asp\Libary Management\Libary Management\obj\Debug\Libary Management.pdb
+C:\Users\ASUS\Desktop\asp\Libary Management\Libary Management\obj\Debug\Libary Management.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\asp\Libary Management\Libary Management\obj\Debug\Libary Management.dll
+C:\Users\ASUS\Desktop\asp\Libary Management\Libary Management\obj\Debug\Libary Management.pdb
